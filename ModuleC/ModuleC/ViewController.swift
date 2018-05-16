@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    let name: String = "123"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
